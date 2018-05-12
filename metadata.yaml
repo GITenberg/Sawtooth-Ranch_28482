@@ -1,0 +1,35 @@
+_repo: Sawtooth-Ranch_28482
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, B. M. (Bertha Muzzy)
+    - Sinclair, Bertha Muzzy
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: The career of prolific writer of Westerns novels B.M. Bower was notable
+  for several reasons. The author, who always used initials as part of her pen name,
+  was born Bertha Muzzy and was the first female writer to make a significant mark
+  in the genre. Secondly, many of Bower's books were adapted for the big screen, and
+  her characters and landscape descriptions have been indelibly stamped on the conventions
+  of classic Western films. Whether you're a first-time reader or a long-time fan
+  ...
+gutenberg_issued: '2009-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: Sawtooth Ranch
+url: http://www.gutenberg.org/ebooks/28482
